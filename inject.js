@@ -5,6 +5,6 @@ Array.from(videos).forEach((video) => {
         video.play();
     }
     else {
-	    console.log('video is already playing');
-    }
+        console.log('video is already playing...');
+    }    
 });
